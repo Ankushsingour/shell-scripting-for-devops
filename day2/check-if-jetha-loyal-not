@@ -1,0 +1,12 @@
+#!/bin/bash
+#
+#
+
+read -p "enter teh name of jhetha wife: " wife
+ 
+if [[ $wife == "daya bhabhi" ]];
+then 
+	echo "jetha is loyal"
+else
+	echo "jhetha is not loyal"
+fi
